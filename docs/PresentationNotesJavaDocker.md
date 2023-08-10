@@ -115,13 +115,13 @@ Docker is a set of products that use OS-level virtualization to deliver software
 
 
 # Sources:
-https://www.educative.io/answers/how-do-you-dockerize-a-maven-project
-https://github.com/fabric8io/docker-maven-plugin/tree/master/samples/dockerfile
-https://hub.docker.com/_/eclipse-temurin
-https://dzone.com/articles/build-docker-image-from-maven
-https://www.simplilearn.com/tutorials/docker-tutorial/what-is-docker-container#:~:text=Running%20your%20service%20on%20hardware,containers%2C%20and%20fewer%20software%20dependencies
-https://www.infoworld.com/article/3310941/why-you-should-use-docker-and-containers.html
-https://www.knowledgehut.com/blog/devops/why-use-docker
-https://docs.aws.amazon.com/whitepapers/latest/docker-on-aws/container-benefits.html
-https://www.docker.com/blog/the-10-most-common-questions-it-admins-ask-about-docker/#:~:text=We%20call%20these%20root%20file,kernel%20with%20the%20other%20containers
-https://www.ibm.com/downloads/cas/POANK8YE
+- https://www.educative.io/answers/how-do-you-dockerize-a-maven-project
+- https://github.com/fabric8io/docker-maven-plugin/tree/master/samples/dockerfile
+- https://hub.docker.com/_/eclipse-temurin
+- https://dzone.com/articles/build-docker-image-from-maven
+- https://www.simplilearn.com/tutorials/docker-tutorial/what-is-docker-container#:~:text=Running%20your%20service%20on%20hardware,containers%2C%20and%20fewer%20software%20dependencies
+- https://www.infoworld.com/article/3310941/why-you-should-use-docker-and-containers.html
+- https://www.knowledgehut.com/blog/devops/why-use-docker
+- https://docs.aws.amazon.com/whitepapers/latest/docker-on-aws/container-benefits.html
+- https://www.docker.com/blog/the-10-most-common-questions-it-admins-ask-about-docker/#:~:text=We%20call%20these%20root%20file,kernel%20with%20the%20other%20containers
+- https://www.ibm.com/downloads/cas/POANK8YE
