@@ -103,15 +103,22 @@ Docker is a set of products that use OS-level virtualization to deliver software
 
 
 # Show the code
+## Maven
+Generating a standard project
 - mvn archetype:generate -DgroupId=com.github.pizzacodr.javadockerdemo -DartifactId=javadockerdemo -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+
 - tree
 - mvn dependency:tree
 - mvn package
 - java -jar target/javadockerdemo.jar
 
+## Docker
+- show Dockerfile
 - docker build -t javadockerdemo.jar .
 - docker image ls
 - docker run -p 8080:8080 javadockerdemo.jar
+
+## Maven to Build and Run the Container
 - mvn package docker:build docker:run 
 
 
