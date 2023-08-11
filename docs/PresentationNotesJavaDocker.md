@@ -1,4 +1,4 @@
-# Divided the Presentation in Four Parts
+# The Presentation is Divided in Four Parts
 - Containerization Benefits
 - Maven Build Tool - Convention over Configuration
 - Docker
@@ -24,7 +24,7 @@ Containerization is a operating system-level virtualization or an application-le
         - (4 times more containers)
         - Twice the throughput
 - Running your service on hardware that is much cheaper than standard servers
-    - No verdor locked-in
+    - No verdor lock-in
 
 - Fast deployment 
     - ease of creating new instances
@@ -32,7 +32,7 @@ Containerization is a operating system-level virtualization or an application-le
 
 - Ease of moving and maintaining your applications
 - Better security
-    - less access needed to work with the code running inside containers, and fewer software dependencies
+    - less access needed to work with the code running inside containers and fewer software dependencies
 
 
 # Maven Build Tool - Convention Over Configuration
@@ -40,11 +40,12 @@ Containerization is a operating system-level virtualization or an application-le
 - Opinionated approach to project layout
 - Manages Dependencies
 - Run Tests
-    - In College
+    - In College:
         - General Debugging
         - User Acceptance Testing
-    - Unit
-    - Integration
+    - With Maven I Learned about:
+    	- Unit Testing
+    	- Integration Testing
 - Compiles code
 - Generates the archive
     - Jar
@@ -62,7 +63,7 @@ Containerization is a operating system-level virtualization or an application-le
 # What is Docker
 Docker is a set of products that use OS-level virtualization to deliver software in packages called containers.
 
-- Docker Image (Build)
+# Docker Image (Build)
 - Create image with Docker Build command from Dockerfile
 - Universal App Package
 - Stanzas create layers
